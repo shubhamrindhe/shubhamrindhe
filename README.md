@@ -1,8 +1,8 @@
-### नमस्ते 🙏🏻 Namaste
-
-<div align="center">
-<h2> नमस्ते 🙏🏻 Namaste </h2>
- </div>
+<div>
+<h2 align="left">नमस्ते</h2>
+<h2 align="center">🙏🏻</h2>
+<h2 align="right">Namaste </h2>
+</div>
 
 <!--
 **shubhamrindhe/shubhamrindhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
