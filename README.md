@@ -1,7 +1,5 @@
 <div>
-<h2 align="left" style="display:inline-block;">नमस्ते</h2>
-<h2 align="center" style="display:inline-block;">🙏🏻</h2>
-<h2 align="right" style="display:inline-block;">Namaste </h2>
+  <h2 align="center"> नमस्ते 🙏🏻 Namaste </h2>
 </div>
 
 <!--
